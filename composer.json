@@ -78,7 +78,7 @@
     "drupal/redirect": "1.*",
     "drupal/roleassign": "1.*",
     "drupal/sharemessage": "1.*",
-    "drupal/simple_sitemap": "2.*",
+    "drupal/simple_sitemap": "^3.0",
     "drupal/sitemap": "1.*",
     "drupal/social_media_links": "2.*",
     "drupal/token": "1.*",
