@@ -77,7 +77,7 @@
     "drupal/sitemap": "1.*",
     "drupal/social_media_links": "2.*",
     "drupal/token": "1.*",
-    "drupal/url_embed": "1.*",
+    "drupal/url_embed": "1.*"
   },
   "extra": {
     "patches": {
