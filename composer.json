@@ -80,6 +80,5 @@
     "drupal/url_embed": "1.*"
   },
   "extra": {
-    "patches": {
   }
 }
