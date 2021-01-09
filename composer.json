@@ -81,13 +81,5 @@
   },
   "extra": {
     "patches": {
-      "drupal/core": {
-        "Profile Inheritance": "https://www.drupal.org/files/issues/2018-10-23/1356276-549-8.6.x.patch",
-        "multiple image upload dimension fix": "https://www.drupal.org/files/issues/2018-04-28/2644468-91.patch"
-      },
-      "drupal/url_embed": {
-        "make embeds responsive": "https://www.drupal.org/files/issues/option-to-make-embeds-responsive-2825602-2.patch"
-      }
-    }
   }
 }
